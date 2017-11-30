@@ -1,5 +1,6 @@
-# COMP9318
-Predict Stress in English Words   
+# COMP9318 Data Warehousing and Data Mining
+
+Project: Predict Stress in English Words   
 =====
 
 Models
